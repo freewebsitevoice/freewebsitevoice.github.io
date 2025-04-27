@@ -1,11 +1,28 @@
 ---
+title: "About US"
 layout: page
-title: About
-permalink: /about/
-image:
+permalink: "/about-us.html"
+comments: true
 ---
 
-GEMINI is a monthly series of day-long workshops geared toward helping researchers access and use software tools for the analysis of large and complex datasets in **GE**nomics, **MI**crobiology a**N**d **I**mmunology.  Each workshop in the series focuses on a single piece of software, involves hands-on active learning, and is free and open to the UPenn biomedical research community, including graduate students, postdocs, faculty and staff.
+Welcome to **US Jobs**, your trusted source for the latest job opportunities across the United States. Whether you're seeking your first job, making a career switch, or exploring new professional avenues, we're here to guide you with up-to-date job postings, career insights, and expert advice.  
 
+### Our Mission  
+At **US Jobs**, our goal is to bridge the gap between job seekers and top employers. We simplify the job search process by providing curated listings, industry news, and career resources to help you make informed decisions.  
 
-The GEMINI Series was founded and is co-organized by Allie Greenplate, PhD and Dan Beiting, PhD and is supported by [Immune Health](https://www.med.upenn.edu/immunehealth/), the [Institute for Immunology](https://www.med.upenn.edu/ifi/), and the [Institute for Infectious and Zoonotic Diseases (IIZD)](https://www.vet.upenn.edu/research/centers-laboratories/research-initiatives/institute-for-infectious-zoonotic-diseases).
+### What We Offer  
+- 🏢 **Job Listings** – Discover new job openings across various industries.  
+- 📌 **Career Advice** – Tips on resumes, interviews, and professional growth.  
+- 📊 **Market Insights** – Stay updated on employment trends and opportunities.  
+- 💻 **Remote & In-Person Jobs** – Find the right job that fits your lifestyle.  
+
+### Why Choose Us?  
+✔ **Reliable & Updated Job Listings**  
+✔ **Easy-to-Navigate Platform**  
+✔ **Supportive Career Resources**  
+
+Join us on your journey to finding the perfect job!  
+
+🔎 Explore job opportunities today at **[us-jobs.github.io](https://us-jobs.github.io/)**  
+
+---
