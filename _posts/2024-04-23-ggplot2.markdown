@@ -1,0 +1,27 @@
+---
+layout: post
+title:  ggplot2
+description: Making graphs with ggplot2 and the R programming language.
+date:   2024-04-23 15:01:35 +0300
+image:  '/images/ggplot_hex.png'
+tags:   [R/Bioconductor, dataviz]
+---
+
+## Registration
+
+**[Register using this form](https://forms.gle/1vdXpJsBnshLfnVn6)!**.  The workshop is free to UPenn graduate students, postdocs, faculty, and staff, but registration is required and seating is limited.
+
+The workshop will take place in the [Holman Reading Room](https://www.library.upenn.edu/holman) in the Biomedical library, and is free to UPenn graduate students, postdocs, faculty, and staff.
+
+## Overview
+
+The first part of the day will be devoted to learning about tidyverse and other methods for preparing data for plotting, as well as ggplot basics. After lunch, we will dive into more sophisticated options for plotting data, including interactive figures. Prerequisites for this course are basic familiarity with R and working installations of R, Rstudio and the tidyverse.
+
+## About your instructor
+
+This workshop will be taught by Matei Ionita, PhD, Senior Data Analyst at I3H
+
+## Workshop resources
+
+Two scripts were used during the workshop: one covering [basic aspects of ggplot2](https://gemini-series.netlify.app/code/basics.R), and another for more [advanced topics](https://gemini-series.netlify.app/code/advanced.R).  These scripts make use of these two data files: [flow_data.csv](https://gemini-series.netlify.app/code/flow_data.csv) and [tabular_data.csv](https://gemini-series.netlify.app/code/tabular_data.csv).  We also discussed color palettes, so you might find [this cheatsheet](https://gemini-series.netlify.app/code/colorPaletteCheatsheet.pdf) useful.
+

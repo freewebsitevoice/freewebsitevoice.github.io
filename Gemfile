@@ -1,3 +1,6 @@
-source "https://rubygems.org"
-gem 'github-pages'
-gem "webrick", "~> 1.7"
+source 'https://rubygems.org'
+gem "bundler"
+gem "jekyll"
+gem "jekyll-paginate"
+gem 'jekyll-tagging'
+gem "jekyll-sitemap"
