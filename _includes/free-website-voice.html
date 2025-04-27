@@ -12,7 +12,6 @@
               <img class="lazy" data-src="{{ site.author.image }}" alt="{{ site.author.name }}'s Picture">
             </div>
           </div>
-          {% endif %}
  
           <div class="author__right">
             <h3 class="author__title">Copy below code and follow the instruction</h3>
@@ -122,7 +121,18 @@
                 &lt;/script&gt;
                 </pre>
 
-
+            <script>
+              function copyCode() {
+                const codeBlock = document.getElementById('codeBlock');
+                const text = codeBlock.innerText;
+                
+                navigator.clipboard.writeText(text).then(() => {
+                  alert('Code copied to clipboard!');
+                }).catch(err => {
+                  alert('Failed to copy: ' + err);
+                });
+              }
+            </script>
 
             <hr>
             <h4>Add id='article' to your article tag like shown below</h4>
