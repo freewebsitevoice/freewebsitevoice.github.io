@@ -7,7 +7,7 @@ Bracia is a simple personal blog theme for Jekyll. This theme is fully responsiv
 ### Demo
 
 Check the theme in action [Live Demo](https://bracia.netlify.app/) |
-[Coding Rhodes](https://jekyllthemes.io/developers/artem-sheludko)
+[Artem Sheludko](https://jekyllthemes.io/developers/artem-sheludko)
 
 ### Theme features
 
