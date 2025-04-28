@@ -13,8 +13,8 @@ author:
   name: Team Gemini
   title: GEMINI
   description: A series of one-day, hands-on, workshops geared toward software and tools for advanced data analysis in GEnomics, MIcrobiology, aNd Immunology (GEMINI).
-  image: '/images/gemini.png'
-  avatar: '/images/gemini-avatar.png'
+  image: '/images/Author-codingRhodes.png'
+  avatar: '/images/Author-codingRhodes.png'
 
 social:
 - {icon: "ion-logo-twitter", label: Twitter, link: "https://twitter.com"}
