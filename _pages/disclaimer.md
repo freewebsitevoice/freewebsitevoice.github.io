@@ -4,10 +4,10 @@ layout: page
 permalink: "/disclaimer"
 ---
 
-Welcome to **US Jobs** (**us-jobs.github.io**). The information provided on this website is for general informational purposes only. By using this site, you acknowledge and agree to the terms outlined in this Disclaimer.  
+Welcome to **freewebsitevoice** (**freewebsitevoice.github.io**). The information provided on this website is for general informational purposes only. By using this site, you acknowledge and agree to the terms outlined in this Disclaimer.  
 
 ### 1. General Information  
-- The content on **US Jobs** is intended to provide job-related information, career advice, and job listings.  
+- The content on **freewebsitevoice** is intended to provide job-related information, career advice, and job listings.  
 - While we strive to ensure accuracy, we do not guarantee that the information on this website is always up to date, complete, or free of errors.  
 
 ### 2. No Professional Advice  
@@ -20,7 +20,7 @@ Welcome to **US Jobs** (**us-jobs.github.io**). The information provided on this
 - Any interactions with third-party websites or employers are at your own risk.  
 
 ### 4. Limitation of Liability  
-- **US Jobs** is not liable for any losses, damages, or inconveniences resulting from the use of the information provided on our website.  
+- **freewebsitevoice** is not liable for any losses, damages, or inconveniences resulting from the use of the information provided on our website.  
 - We do not guarantee job placement, employment success, or the legitimacy of any job listing.  
 
 ### 5. User Responsibility  
@@ -34,6 +34,6 @@ We reserve the right to update or modify this Disclaimer at any time. Any change
 If you have any questions about this Disclaimer, please contact us at:  
 📧 **[codingrhodes@gmail.com](mailto:codingrhodes@gmail.com)**  
 
-🔎 Visit **[us-jobs.github.io](https://us-jobs.github.io/)** for job listings and career insights.  
+🔎 Visit **[freewebsitevoice.github.io](https://freewebsitevoice.github.io/)** for job listings and career insights.  
 
 ---

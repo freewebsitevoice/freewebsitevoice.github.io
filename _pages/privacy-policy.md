@@ -4,7 +4,7 @@ title: "Privacy Policy"
 permalink: "/privacy-policy"
 ---  
 
-Welcome to **US Jobs** (**us-jobs.github.io**). Your privacy is important to us. This Privacy Policy explains how we collect, use, and protect your information when you visit our website.  
+Welcome to **freewebsitevoice** (**freewebsitevoice.github.io**). Your privacy is important to us. This Privacy Policy explains how we collect, use, and protect your information when you visit our website.  
 
 ### 1. Information We Collect  
 We may collect the following types of information:  
@@ -39,6 +39,6 @@ We may update this Privacy Policy from time to time. Any changes will be posted 
 If you have any questions regarding this Privacy Policy, please contact us at:  
 📧 **[codingrhodes@gmail.com](mailto:codingrhodes@gmail.com)**  
 
-🔎 Visit **[us-jobs.github.io](https://us-jobs.github.io/)** for the latest job listings and career insights.  
+🔎 Visit **[freewebsitevoice.github.io](https://freewebsitevoice.github.io/)** for the latest job listings and career insights.  
 
 ---

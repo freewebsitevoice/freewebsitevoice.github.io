@@ -108,6 +108,6 @@ permalink: "/Quit-Job-Quiz"
 </script>
 
 
-📌 **Looking for a job?** Browse the latest listings at **[us-jobs.github.io](https://us-jobs.github.io/)**  
+📌 **Looking for a job?** Browse the latest listings at **[freewebsitevoice.github.io](https://freewebsitevoice.github.io/)**  
 
 ---

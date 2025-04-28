@@ -1,8 +1,8 @@
 #-------------------------------
 # General Site Settings
-title: US Jobs
+title: freewebsitevoice
 logo: 'images/fwv-logo.png' # Add your logo path
-description: 'US-Jobs: Your go-to source for the latest job trends, career advice, and employment opportunities across the USA.'
+description: 'freewebsitevoice: It is a free code snippet that you can put into your website, to convert text to speech.
 baseurl: "" # The subpath of your site, e.g. /blog
 url: "" # The base hostname & protocol for your site, e.g. http://example.com
 future: true

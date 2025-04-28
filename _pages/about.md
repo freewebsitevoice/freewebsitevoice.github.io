@@ -5,10 +5,10 @@ permalink: "/about-us.html"
 comments: true
 ---
 
-Welcome to **US Jobs**, your trusted source for the latest job opportunities across the United States. Whether you're seeking your first job, making a career switch, or exploring new professional avenues, we're here to guide you with up-to-date job postings, career insights, and expert advice.  
+Welcome to **freewebsitevoice**, your trusted source for the latest job opportunities across the United States. Whether you're seeking your first job, making a career switch, or exploring new professional avenues, we're here to guide you with up-to-date job postings, career insights, and expert advice.  
 
 ### Our Mission  
-At **US Jobs**, our goal is to bridge the gap between job seekers and top employers. We simplify the job search process by providing curated listings, industry news, and career resources to help you make informed decisions.  
+At **freewebsitevoice**, our goal is to bridge the gap between job seekers and top employers. We simplify the job search process by providing curated listings, industry news, and career resources to help you make informed decisions.  
 
 ### What We Offer  
 - 🏢 **Job Listings** – Discover new job openings across various industries.  
@@ -23,6 +23,6 @@ At **US Jobs**, our goal is to bridge the gap between job seekers and top employ
 
 Join us on your journey to finding the perfect job!  
 
-🔎 Explore job opportunities today at **[us-jobs.github.io](https://us-jobs.github.io/)**  
+🔎 Explore job opportunities today at **[freewebsitevoice.github.io](https://freewebsitevoice.github.io/)**  
 
 ---
